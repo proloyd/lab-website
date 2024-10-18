@@ -1,7 +1,11 @@
 ---
 ---
 
+<<<<<<< HEAD
 ## <center>Computational neuroscience of brain dynamics and cognition</center>
+=======
+# proloydDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+>>>>>>> 736257e (Setup repo)
 
 
 
