@@ -1,0 +1,1 @@
+Sitemap: https://proloyd.github.io/lab-website/sitemap.xml
