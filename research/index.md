@@ -14,7 +14,9 @@ We develop of novel statistical signal processing tools for analyzing high-dimen
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="doi:10.7554/eLife.97107.3" style="rich" %}
+
+{% include citation.html lookup="10.1371/journal.pcbi.1011395" style="rich" %}
 
 {% include section.html %}
 
