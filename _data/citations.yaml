@@ -1,18 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2023.07.26.550594
-  title: A dynamic generative model can extract interpretable oscillatory components
-    from multichannel neurophysiological recordings
-  authors:
-  - Proloy Das
-  - Mingjian He
-  - Patrick L. Purdon
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-07-28'
-  link: https://doi.org/g8njf3
-  orcid: 0000-0002-8807-042X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1101/2023.05.19.541500
   title: Changes in Cortical Directional Connectivity during Difficult Listening in
     Younger and Older Adults
@@ -38,19 +25,6 @@
   publisher: IEEE Transactions on Information Theory
   date: '2023-11-01'
   link: https://doi.org/g8njf5
-  orcid: 0000-0002-8807-042X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.11.18.517120
-  title: Switching state-space modeling of neural signal dynamics
-  authors:
-  - Mingjian He
-  - Proloy Das
-  - Gladia Hotan
-  - Patrick L. Purdon
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-11-20'
-  link: https://doi.org/g8njf6
   orcid: 0000-0002-8807-042X
   plugin: orcid.py
   file: orcid.yaml
@@ -162,3 +136,31 @@
   orcid: 0000-0002-8807-042X
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.7554/eLife.97107.3
+  title: A dynamic generative model can extract interpretable oscillatory components
+    from multichannel neurophysiological recordings
+  authors:
+  - Proloy Das
+  - Mingjian He
+  - Patrick L Purdon
+  publisher: eLife
+  date: '2024-08-15'
+  link: https://doi.org/g8njgn
+  type: paper
+  image: https://iiif.elifesciences.org/lax:97107%2Felife-97107-fig2-v1.tif/full/617,/0/default.webp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pcbi.1011395
+  title: Switching state-space modeling of neural signal dynamics
+  authors:
+  - Mingjian He
+  - Proloy Das
+  - Gladia Hotan
+  - Patrick L. Purdon
+  publisher: PLOS Computational Biology
+  date: '2023-08-28'
+  link: https://doi.org/g8njgp
+  type: paper
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=large&id=10.1371/journal.pcbi.1011395.g007
+  plugin: sources.py
+  file: sources.yaml
