@@ -1,7 +1,7 @@
 ---
 ---
 
-# Das lab
+# Computational neuroscience of brain dynamics from electrophysiological recordings
 
 
 
@@ -11,7 +11,7 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We investigate neuroscience of sensory and cognitive processing through the lens of brain dynamics and build tools to capture brain dynamics from M/EEG.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are looking for post-docs, graduate students and a full time research assistant to work on multiple projects.
 
 {%
   include button.html
@@ -51,7 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="Upcoming Projects"
   flip=true
   style="bare"
   text=text
