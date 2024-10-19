@@ -7,27 +7,25 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are looking for applicants interested in theory and algorithm development for neural data anlaysis, as well as development of a versatile data pipeline with user-friendly front-end and documentation. deal candidates should have experience and interests in one or more of the following areas: signal processing; machine learning; system identification; computational neuroscience; Python development; prior experience with MEG and/or EEG is not required but would be a plus.
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="proloy.das@nbrc.ac.in"
+  link="proloy.das@nbrc.ac.in"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="1242845405"
+  link="1242845405"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/RRw6Q3WCzgXvBaNh6"
 %}
 
 {% include section.html %}

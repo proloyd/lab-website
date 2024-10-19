@@ -7,8 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We develop of novel statistical signal processing tools for analyzing high-dimensional time-series data recorded in various electrophysological modality (EEG/MEG/fMRI) to gather evidence for hypothesis testing in neuroscience of sensory and cognitive processing, demystify whole head spontaneous brain dynamics and discover biomarkers and medical devices utilizing cheap neuro-imaging modality for brain health monitoring.
+
 
 {% include section.html %}
 
