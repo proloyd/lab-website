@@ -1,20 +1,14 @@
 ---
-name: Jane Smith
+name: Proloy Das
 image: images/photo.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: National Brain Reserach Centre
 aliases:
-  - J. Smith
-  - J Smith
+  - P Das
+  - P. Das
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: 
+  orcid: 0000-0002-8807-042X
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+My primary interest is developing signal processing tools for high dimensional time series data specifically tailored for neural recordings, considering the inherent stochasticity and noisy nature of the later. More specifically, my aim is to design innovative parametric/semi-parametric modeling paradigms of neural dynamics, apply machine learning (optimization) techniques to learn those model parameters in a data-driven way, and demonstrating the types of inferences (including causal ones) that can made from those model parameters. These efforts are directed towards improving neural data analysis practices with “let the data speak for itself” approach. In parallel to these technical aspects of neuro-imaging data analysis, I partake in open science and reproducible research by creating easy to use software tools and disseminating them as public repositories under open-source licenses.
