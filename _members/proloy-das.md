@@ -2,7 +2,6 @@
 name: Proloy Das
 image: images/photo.jpg
 role: pi
-title: Assistant Professor/ Scientist-III
 affiliation: National Brain Reserach Centre
 aliases:
   - P Das
