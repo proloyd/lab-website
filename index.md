@@ -1,7 +1,7 @@
 ---
 ---
 
-## Computational neuroscience of brain dynamics from electrophysiological recordings
+## Computational neuroscience of brain dynamics and cognition
 
 
 

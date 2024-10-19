@@ -1,6 +1,6 @@
 ---
 name: Proloy Das
-image: images/photo.jpg
+image: images/proloydas.jpg
 role: pi
 affiliation: National Brain Reserach Centre
 aliases:
