@@ -35,7 +35,7 @@ We are looking for applicants interested in theory and algorithm development for
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Lorem ipsum"
+  caption=Proloy Das"
 %}
 
 {% endcapture %}
@@ -50,7 +50,8 @@ We are looking for applicants interested in theory and algorithm development for
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
+{% include cols.html col1=col1%}
+<!-- {% include cols.html col1=col1 col2=col2 %} -->
 
 {% include section.html dark=true %}
 
@@ -72,4 +73,4 @@ consectetur adipiscing elit
 sed do eiusmod tempor
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+<!-- {% include cols.html col1=col1 col2=col2 col3=col3 %} -->
