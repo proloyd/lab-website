@@ -1,7 +1,7 @@
 ---
 name: Proloy Das
 image: images/photo.jpg
-role: principal-investigator
+role: pi
 affiliation: National Brain Reserach Centre
 aliases:
   - P Das

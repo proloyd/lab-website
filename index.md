@@ -4,7 +4,6 @@
 ## <center>Computational neuroscience of brain dynamics and cognition</center>
 
 
-
 {% include section.html %}
 
 ## Highlights
