@@ -28,7 +28,7 @@ We are looking for applicants interested in theory and algorithm development for
   link="https://maps.app.goo.gl/RRw6Q3WCzgXvBaNh6"
 %}
 
-{% include <!-- section.html %}
+<!-- {% include section.html %}
 
 {% capture col1 %}
 
