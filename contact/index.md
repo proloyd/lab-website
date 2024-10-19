@@ -28,7 +28,7 @@ We are looking for applicants interested in theory and algorithm development for
   link="https://maps.app.goo.gl/RRw6Q3WCzgXvBaNh6"
 %}
 
-{% include section.html %}
+{% include <!-- section.html %}
 
 {% capture col1 %}
 
@@ -50,10 +50,10 @@ We are looking for applicants interested in theory and algorithm development for
 
 {% endcapture %}
 
-{% include cols.html col1=col1%}
+{% include cols.html col1=col1%} -->
 <!-- {% include cols.html col1=col1 col2=col2 %} -->
 
-{% include section.html dark=true %}
+<!-- {% include section.html dark=true %}
 
 {% capture col1 %}
 Lorem ipsum dolor sit amet  
@@ -72,5 +72,5 @@ Lorem ipsum dolor sit amet
 consectetur adipiscing elit  
 sed do eiusmod tempor
 {% endcapture %}
-
+ -->
 <!-- {% include cols.html col1=col1 col2=col2 col3=col3 %} -->
