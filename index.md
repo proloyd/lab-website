@@ -1,7 +1,7 @@
 ---
 ---
 
-# Computational neuroscience of brain dynamics from electrophysiological recordings
+## Computational neuroscience of brain dynamics from electrophysiological recordings
 
 
 
@@ -59,7 +59,7 @@ We are looking for post-docs, graduate students and a full time research assista
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Based at National Brain Research Centre, Manesar, Gurgaon, Haryana our team hosts members from diverse background.
 
 {%
   include button.html
