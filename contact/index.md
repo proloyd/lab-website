@@ -50,7 +50,7 @@ We are looking for applicants interested in theory and algorithm development for
 
 {% endcapture %}
 
-{% include cols.html col1=col1%}
+<!-- {% include cols.html col1=col1%} -->
 <!-- {% include cols.html col1=col1 col2=col2 %} -->
 
 {% include section.html dark=true %}
