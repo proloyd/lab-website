@@ -16,7 +16,7 @@ We develop of novel statistical signal processing tools for analyzing high-dimen
 
 {% include citation.html lookup="doi:10.7554/eLife.97107.3" style="rich" %}
 
-{% include citation.html lookup="10.1371/journal.pcbi.1011395" style="rich" %}
+{% include citation.html lookup="doi:10.1371/journal.pcbi.1011395" style="rich" %}
 
 {% include section.html %}
 
