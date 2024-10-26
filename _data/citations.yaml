@@ -101,14 +101,20 @@
   link: https://doi.org/g8njf7
   orcid: 0000-0002-8807-042X
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> f0b083b (Update citations)
   plugin: sources.py
   file: sources.yaml
   type: paper
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1053811922006127-gr5_lrg.jpg
+<<<<<<< HEAD
 =======
   plugin: orcid.py
   file: orcid.yaml
 >>>>>>> c551080 (Update citations)
+=======
+>>>>>>> f0b083b (Update citations)
 - id: doi:10.1101/2021.08.01.454687
   title: 'Eelbrain: A Python toolkit for time-continuous analysis with temporal response
     functions'
@@ -140,6 +146,7 @@
   plugin: orcid.py
   file: orcid.yaml
 <<<<<<< HEAD
+<<<<<<< HEAD
 - id: doi:10.1109/ACSSC.2018.8645204
   title: Cortical Localization of the Auditory Temporal Response Function from MEG
     via Non-convex Optimization
@@ -161,6 +168,8 @@
   orcid: 0000-0002-8807-042X
   plugin: orcid.py
   file: orcid.yaml
+=======
+>>>>>>> f0b083b (Update citations)
 - id: doi:10.1109/ACSSC.2018.8645204
   title: Cortical Localization of the Auditory Temporal Response Function from MEG
     via Non-convex Optimization
@@ -243,6 +252,9 @@
   plugin: sources.py
   file: sources.yaml
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> f0b083b (Update citations)
 - id: doi:10.7554/eLife.85012
   title: Eelbrain, a Python toolkit for time-continuous analysis with temporal response
     functions
@@ -277,7 +289,10 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S105381192030015X-gr5.jpg
   plugin: sources.py
   file: sources.yaml
+<<<<<<< HEAD
 =======
 >>>>>>> c551080 (Update citations)
 =======
 >>>>>>> e9ad6b6 (Update citations)
+=======
+>>>>>>> f0b083b (Update citations)
