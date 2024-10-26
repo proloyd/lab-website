@@ -38,3 +38,19 @@
 - id: doi:10.1371/journal.pcbi.1011395
   type: paper
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=large&id=10.1371/journal.pcbi.1011395.g007
+
+- id: doi:10.1016/j.neuroimage.2022.119496
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1053811922006127-gr5_lrg.jpg
+
+- id: doi:10.7554/eLife.85012
+  type: paper
+  image: https://iiif.elifesciences.org/lax:85012%2Felife-85012-fig2-v2.tif/full/1500,/0/default.jpg
+
+- id: doi:10.1016/j.neuroimage.2020.116528
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S105381192030015X-gr5.jpg
+
+- id: doi:10.1101/761999
+  remove: true
+
