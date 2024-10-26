@@ -1,7 +1,7 @@
 ---
 ---
 
-## Computational neuroscience of brain dynamics and cognition
+## <center>Computational neuroscience of brain dynamics and cognition</center>
 
 
 
