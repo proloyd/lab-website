@@ -1,6 +1,6 @@
 - title: Neurocurrent Response function 2.0
   subtitle: Imaging neural processing of time-continuous stimulus, like speech/music
-  gorup: featured
+  group: featured
   image: images/photo.jpg
   link: https://github.com/proloyd/neuro-currentRF/wiki/NCRF-tutorial
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
