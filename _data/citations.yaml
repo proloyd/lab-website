@@ -42,8 +42,10 @@
   date: '2022-10-01'
   link: https://doi.org/g8njf7
   orcid: 0000-0002-8807-042X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1053811922006127-gr5_lrg.jpg
 - id: doi:10.1101/2021.08.01.454687
   title: 'Eelbrain: A Python toolkit for time-continuous analysis with temporal response
     functions'
@@ -71,20 +73,6 @@
   publisher: Signal Processing
   date: '2020-05-01'
   link: https://doi.org/g8njf8
-  orcid: 0000-0002-8807-042X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/761999
-  title: 'Neuro-Current Response Functions: A Unified Approach to MEG Source Analysis
-    under the Continuous Stimuli Paradigm'
-  authors:
-  - Proloy Das
-  - Christian Brodbeck
-  - Jonathan Z. Simon
-  - Behtash Babadi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-09-09'
-  link: https://doi.org/ggdb56
   orcid: 0000-0002-8807-042X
   plugin: orcid.py
   file: orcid.yaml
@@ -162,5 +150,39 @@
   link: https://doi.org/g8njgp
   type: paper
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=large&id=10.1371/journal.pcbi.1011395.g007
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.7554/eLife.85012
+  title: Eelbrain, a Python toolkit for time-continuous analysis with temporal response
+    functions
+  authors:
+  - Christian Brodbeck
+  - Proloy Das
+  - Marlies Gillis
+  - Joshua P Kulasingham
+  - Shohini Bhattasali
+  - Phoebe Gaston
+  - Philip Resnik
+  - Jonathan Z Simon
+  publisher: eLife
+  date: '2023-11-29'
+  link: https://doi.org/gs7hk9
+  type: paper
+  image: https://iiif.elifesciences.org/lax:85012%2Felife-85012-fig2-v2.tif/full/1500,/0/default.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neuroimage.2020.116528
+  title: 'Neuro-current response functions: A unified approach to MEG source analysis
+    under the continuous stimuli paradigm'
+  authors:
+  - Proloy Das
+  - Christian Brodbeck
+  - Jonathan Z. Simon
+  - Behtash Babadi
+  publisher: NeuroImage
+  date: '2020-05-01'
+  link: https://doi.org/ghqxqt
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S105381192030015X-gr5.jpg
   plugin: sources.py
   file: sources.yaml
