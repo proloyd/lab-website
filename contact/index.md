@@ -7,7 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-We are looking for applicants interested in theory and algorithm development for neural data anlaysis, as well as development of a versatile data pipeline with user-friendly front-end and documentation. deal candidates should have experience and interests in one or more of the following areas: signal processing; machine learning; system identification; computational neuroscience; Python development; prior experience with MEG and/or EEG is not required but would be a plus.
+On computational front, we are looking for applicants interested in theory and algorithm development for neural data anlaysis, as well as development of a versatile data pipeline with user-friendly front-end and documentation. Ideal candidates should have experience and interests in one or more of the following areas: signal processing; machine learning; system identification; computational neuroscience; Python development; prior experience with MEG and/or EEG is not required but would be a plus.
+
+On experimental front, we are looking for applicants interested in EEG/ MRI studies, who are willing to develop and/or run congnitive experiment protocol for healthy volunteers. Ideal candidates should have experience or interests in one or more of the following areas: computational psychology, cognitive neuroscience; prior experience with Python or MATLAB is not required but would be a plus. 
 
 {%
   include button.html
@@ -50,9 +52,10 @@ We are looking for applicants interested in theory and algorithm development for
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
+{% include cols.html col1=col1%}
+<!-- {% include cols.html col1=col1 col2=col2 %} -->
 
-{% include section.html dark=true %}
+<!-- {% include section.html dark=true %}
 
 {% capture col1 %}
 Lorem ipsum dolor sit amet  
@@ -71,5 +74,5 @@ Lorem ipsum dolor sit amet
 consectetur adipiscing elit  
 sed do eiusmod tempor
 {% endcapture %}
- 
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+ --> 
+<!-- {% include cols.html col1=col1 col2=col2 col3=col3 %} -->
