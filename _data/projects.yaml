@@ -1,7 +1,7 @@
 - title: Neurocurrent response function 2.0
   subtitle: 
   group: featured
-  image: images/NCRF-paradigm.jpg
+  image: images/NCRF-Paradigm.jpg
   link: https://github.com/proloyd/neuro-currentRF/wiki/NCRF-tutorial
   description: Develop a tool for studying how the brain encodes complex and natural stimuli such as speech, music etc.
   repo: 
