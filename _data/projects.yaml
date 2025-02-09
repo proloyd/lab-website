@@ -1,48 +1,55 @@
-- title: Neurocurrent Response function 2.0
-  subtitle: Imaging neural processing of time-continuous stimulus, like speech/music
+- title: Neurocurrent response function 2.0
+  subtitle: 
   group: featured
-  image: images/photo.jpg
+  image: images/NCRF-paradigm.jpg
   link: https://github.com/proloyd/neuro-currentRF/wiki/NCRF-tutorial
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Develop a tool for studying how the brain encodes complex and natural stimuli such as speech, music etc.
   repo: 
   tags:
     - software
     - publication
 
 - title: What is a neural oscillation? 💭
-  subtitle: When does a spectral peak becomes neural "oscillation"?
+  subtitle: 
   group: featured
-  image: images/photo.jpg
+  image: images/Phase-space-osillation.png
   link: https://github.com/proloyd/purdonlabmeeg/blob/main/examples/simulation_example_oscmodel.ipynb
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Toward better demarcation of oscillations from colored noise and background aperiodic fluctuations based on phase consistency.
   repo: https://github.com/proloyd/purdonlabmeeg
   tags:
     - software
     - publication
-
-- title: Aperiodic neural activity - what, how and why?
-  subtitle: Is spectral domain is the 'correct' way to characterize aperiodic neural activity?
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Neural corrletes of Emotion processing
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+    - open-position
 
 - title: Cognitive flexibity 
-  subtitle: Audio-visual (multi-sensory) set shifting
+  subtitle:
+  image: images/task-switching.png
+  link: 
+  description: Uncover neural basis of cognitive flexibility by tracking rapid dynamical changes during task switching.
+  repo: 
+  tags:
+    - Open-position
+    - EEG
+
+- title: Aperiodic neural activity - what, how and why?
+  subtitle: 
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link:
+  description: Is spectral domain is the 'correct' way to characterize aperiodic neural activity?
+  repo: 
   tags:
     - software
+    - open position
+
+
+- title: Neural corrletes of emotion processing
+  subtitle: 
+  image: images/photo.jpg
+  link: 
+  description: How do neural oscillations or aperiodic neural activity archestrate our emotions?
+  repo: 
+  tags:
+    - open-position
+    - EEG
+
+

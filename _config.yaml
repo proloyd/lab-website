@@ -4,7 +4,7 @@ subtitle: National Brain Reserach Centre
 description: 
 header: images/background.jpg
 footer: images/background.jpg
-proofer: false
+proofer: true
 
 # site social media and other links
 links:

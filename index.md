@@ -25,7 +25,7 @@ We investigate neuroscience of sensory and cognitive processing through the lens
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.jpeg"
   link="research"
   title="Our Research"
   text=text
@@ -33,7 +33,7 @@ We investigate neuroscience of sensory and cognitive processing through the lens
 
 {% capture text %}
 
-We are looking for post-docs, graduate students and a full time research assistant to work on multiple projects.
+We are looking for post-docs, graduate students, and interns to work on multiple projects.
 
 {%
   include button.html
@@ -48,7 +48,7 @@ We are looking for post-docs, graduate students and a full time research assista
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/NCRF-Paradigm.jpg"
   link="projects"
   title="Upcoming Projects"
   flip=true

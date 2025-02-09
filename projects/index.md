@@ -7,10 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are looking for post-docs, graduate students (fully funded) to work on multiple projects. For more details, check out the featured projects with open positions.
 
-{% include tags.html tags="publication, resource, website" %}
+For details of M.Sc. and PHD admissions at NBRC click here: [National Brain Research Centre Admissions](https://www.nbrc.ac.in/html/nbrc/index.html).
+
+{% include tags.html tags="publication, open-position, software, eeg" %}
 
 {% include search-info.html %}
 

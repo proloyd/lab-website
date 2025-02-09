@@ -2,7 +2,7 @@
 name: Aditi Aravind
 image: images/aditiaravind.jpg
 description: Research Intern
-role: developer
+role: programmer
 links:
   email: aravinds.aditi@gmail.com
   twitter: 
