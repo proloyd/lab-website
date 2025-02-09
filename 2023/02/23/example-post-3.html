@@ -37,6 +37,10 @@
 
 
 
+
+
+
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <title>Example post 3 | Das Lab</title>
@@ -50,22 +54,22 @@
 <meta property="og:site_title" content="Das Lab">
 <meta property="og:description" content="National Brain Reserach Centre. ">
 <meta property="og:url" content="https://proloyd.github.io/lab-website">
-<meta property="og:image" content="/lab-website/images/share.jpg">
+<meta property="og:image" content="">
 <meta property="og:locale" content="en_US">
 
 <meta property="twitter:title" content="Example post 3">
 <meta property="twitter:description" content="National Brain Reserach Centre. ">
 <meta property="twitter:url" content="https://proloyd.github.io/lab-website">
 <meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:image" content="/lab-website/images/share.jpg">
+<meta property="twitter:image" content="">
 
 
   <meta name="author" content="john-doe">
   <meta property="og:type" content="article">
-  <meta property="og:updated_time" content="2024-10-26T15:00:11+00:00">
+  <meta property="og:updated_time" content="2025-02-09T16:06:00+00:00">
   <meta property="article:published_time" content="2023-02-23T00:00:00+00:00">
-  <meta property="article:modified_time" content="2024-10-26T15:00:11+00:00">
-  <meta name="revised" content="2024-10-26T15:00:11+00:00">
+  <meta property="article:modified_time" content="2025-02-09T16:06:00+00:00">
+  <meta name="revised" content="2025-02-09T16:06:00+00:00">
 
 
 <script type="application/ld+json">
@@ -75,7 +79,7 @@
       "@type": "BlogPosting",
       "author": { "@type": "Person", "name": "Example post 3" },
       "datePublished": "2023-02-23T00:00:00+00:00",
-      "dateModified": "2024-10-26T15:00:11+00:00",
+      "dateModified": "2025-02-09T16:06:00+00:00",
     
     "name": "Example post 3",
     "description": "National Brain Reserach Centre. ",
@@ -98,9 +102,9 @@
 
 <!-- Font Awesome icons (load asynchronously due to size) -->
 
-<link href="https://use.fontawesome.com/releases/v6.5.0/css/all.css" rel="stylesheet" media="none" onload="this.removeAttribute('media'); this.onload = null;">
+<link href="https://use.fontawesome.com/releases/v6.7.0/css/all.css" rel="stylesheet" media="none" onload="this.removeAttribute('media'); this.onload = null;">
 <noscript>
-  <link href="https://use.fontawesome.com/releases/v6.5.0/css/all.css" rel="stylesheet">
+  <link href="https://use.fontawesome.com/releases/v6.7.0/css/all.css" rel="stylesheet">
 </noscript>
 
   <!-- third party styles -->
@@ -164,6 +168,10 @@
 
   
     <link href="/lab-website/_styles/dark-toggle.css" rel="stylesheet">
+  
+
+  
+    <link href="/lab-website/_styles/details.css" rel="stylesheet">
   
 
   
@@ -454,9 +462,9 @@
 
   <section class="background" data-size="1" style="--image: url('/lab-website/images/photo.jpg')">
     <!--
-  background: images/photo.jpg;
-  dark: ;
-  size: 1;
+  <background>images/photo.jpg</background>
+  <dark></dark>
+  <size>1</size>
 -->
 
 
@@ -467,33 +475,12 @@
     
     
       
-
-
-
-<div class="portrait-wrapper">
-  <a href="/lab-website/members/john-doe.html" class="portrait" data-style="tiny" aria-label="John Doe">
-    
-      <i class="icon fa-solid fa-graduation-cap"></i>
-    
-
-    <img src="/lab-website/images/photo.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/lab-website/images/fallback.svg'; this.onerror = null;">
-
-    
-      <span class="portrait-name">
-        John Doe
-      </span>
-    
-
-    
-      <span class="portrait-description">
-        PhD Student
-      </span>
-    
-
-    
-  </a>
-</div>
-
+      
+        <span data-tooltip="Author">
+          <i class="icon fa-solid fa-feather-pointed"></i>
+          <span>john-doe</span>
+        </span>
+      
     
   
 
@@ -510,7 +497,7 @@
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>October 26, 2024</span>
+      <span>February 09, 2025</span>
     </span>
   
 </div>
@@ -519,13 +506,13 @@
   
 
 
-  <div class="tags" data-link="https://proloyd.github.io/lab-website/blog">
+  <div class="tags" data-link="/lab-website/blog">
     
-      <a href="https://proloyd.github.io/lab-website/blog?search=%22tag:%20biology%22" class="tag" data-tooltip='Show items with the tag "biology"'>
+      <a href="blog?search=%22tag:%20biology%22" class="tag" data-tooltip='Show items with the tag "biology"'>
         biology
       </a>
     
-      <a href="https://proloyd.github.io/lab-website/blog?search=%22tag:%20medicine%22" class="tag" data-tooltip='Show items with the tag "medicine"'>
+      <a href="blog?search=%22tag:%20medicine%22" class="tag" data-tooltip='Show items with the tag "medicine"'>
         medicine
       </a>
     
@@ -538,9 +525,9 @@
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 
@@ -553,9 +540,9 @@
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 
@@ -666,7 +653,7 @@
   </div>
 
   <div>
-    © 2024
+    © 2025
     Das Lab
       |   Built with
     <a href="https://github.com/greenelab/lab-website-template">
