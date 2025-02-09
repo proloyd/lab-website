@@ -1,7 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 - id: doi:10.1101/2023.05.19.541500
   title: Changes in Cortical Directional Connectivity during Difficult Listening in
     Younger and Older Adults
@@ -22,43 +20,6 @@
   title: Non-Asymptotic Guarantees for Reliable Identification of Granger Causality
     via the LASSO
   authors:
-=======
-- id: doi:10.1101/2023.07.26.550594
-  title: A dynamic generative model can extract interpretable oscillatory components
-    from multichannel neurophysiological recordings
-  authors:
-  - Proloy Das
-  - Mingjian He
-  - Patrick L. Purdon
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-07-28'
-  link: https://doi.org/g8njf3
-  orcid: 0000-0002-8807-042X
-  plugin: orcid.py
-  file: orcid.yaml
-=======
->>>>>>> e9ad6b6 (Update citations)
-- id: doi:10.1101/2023.05.19.541500
-  title: Changes in Cortical Directional Connectivity during Difficult Listening in
-    Younger and Older Adults
-  authors:
-  - Behrad Soleimani
-  - I.M. Dushyanthi Karunathilake
-  - Proloy Das
-  - Stefanie E. Kuchinsky
-  - Behtash Babadi
-  - Jonathan Z. Simon
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-05-22'
-  link: https://doi.org/g8njf4
-  orcid: 0000-0002-8807-042X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/TIT.2023.3296336
-  title: Non-Asymptotic Guarantees for Reliable Identification of Granger Causality
-    via the LASSO
-  authors:
->>>>>>> c551080 (Update citations)
   - Proloy Das
   - Behtash Babadi
   publisher: IEEE Transactions on Information Theory
@@ -67,25 +28,6 @@
   orcid: 0000-0002-8807-042X
   plugin: orcid.py
   file: orcid.yaml
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-- id: doi:10.1101/2022.11.18.517120
-  title: Switching state-space modeling of neural signal dynamics
-  authors:
-  - Mingjian He
-  - Proloy Das
-  - Gladia Hotan
-  - Patrick L. Purdon
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-11-20'
-  link: https://doi.org/g8njf6
-  orcid: 0000-0002-8807-042X
-  plugin: orcid.py
-  file: orcid.yaml
->>>>>>> c551080 (Update citations)
-=======
->>>>>>> e9ad6b6 (Update citations)
 - id: doi:10.1016/j.neuroimage.2022.119496
   title: 'NLGC: Network localized Granger causality with application to MEG directional
     functional connectivity analysis'
@@ -100,21 +42,10 @@
   date: '2022-10-01'
   link: https://doi.org/g8njf7
   orcid: 0000-0002-8807-042X
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> f0b083b (Update citations)
   plugin: sources.py
   file: sources.yaml
   type: paper
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1053811922006127-gr5_lrg.jpg
-<<<<<<< HEAD
-=======
-  plugin: orcid.py
-  file: orcid.yaml
->>>>>>> c551080 (Update citations)
-=======
->>>>>>> f0b083b (Update citations)
 - id: doi:10.1101/2021.08.01.454687
   title: 'Eelbrain: A Python toolkit for time-continuous analysis with temporal response
     functions'
@@ -145,31 +76,6 @@
   orcid: 0000-0002-8807-042X
   plugin: orcid.py
   file: orcid.yaml
-<<<<<<< HEAD
-<<<<<<< HEAD
-- id: doi:10.1109/ACSSC.2018.8645204
-  title: Cortical Localization of the Auditory Temporal Response Function from MEG
-    via Non-convex Optimization
-=======
-- id: doi:10.1101/761999
-  title: 'Neuro-Current Response Functions: A Unified Approach to MEG Source Analysis
-    under the Continuous Stimuli Paradigm'
->>>>>>> c551080 (Update citations)
-  authors:
-  - Proloy Das
-  - Christian Brodbeck
-  - Jonathan Z. Simon
-  - Behtash Babadi
-<<<<<<< HEAD
-=======
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-09-09'
-  link: https://doi.org/ggdb56
-  orcid: 0000-0002-8807-042X
-  plugin: orcid.py
-  file: orcid.yaml
-=======
->>>>>>> f0b083b (Update citations)
 - id: doi:10.1109/ACSSC.2018.8645204
   title: Cortical Localization of the Auditory Temporal Response Function from MEG
     via Non-convex Optimization
@@ -178,7 +84,6 @@
   - Christian Brodbeck
   - Jonathan Z. Simon
   - Behtash Babadi
->>>>>>> c551080 (Update citations)
   publisher: 2018 52nd Asilomar Conference on Signals, Systems, and Computers
   date: '2018-10-01'
   link: https://doi.org/g8njf9
@@ -219,10 +124,6 @@
   orcid: 0000-0002-8807-042X
   plugin: orcid.py
   file: orcid.yaml
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> e9ad6b6 (Update citations)
 - id: doi:10.7554/eLife.97107.3
   title: A dynamic generative model can extract interpretable oscillatory components
     from multichannel neurophysiological recordings
@@ -251,10 +152,6 @@
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=large&id=10.1371/journal.pcbi.1011395.g007
   plugin: sources.py
   file: sources.yaml
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> f0b083b (Update citations)
 - id: doi:10.7554/eLife.85012
   title: Eelbrain, a Python toolkit for time-continuous analysis with temporal response
     functions
@@ -289,10 +186,3 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S105381192030015X-gr5.jpg
   plugin: sources.py
   file: sources.yaml
-<<<<<<< HEAD
-=======
->>>>>>> c551080 (Update citations)
-=======
->>>>>>> e9ad6b6 (Update citations)
-=======
->>>>>>> f0b083b (Update citations)
