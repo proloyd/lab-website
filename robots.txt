@@ -1,1 +1,1 @@
-Sitemap: http://proloydas.net/sitemap.xml
+Sitemap: https://proloydas.net/sitemap.xml
