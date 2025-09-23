@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-On computational front, we are looking for applicants interested in theory and algorithm development for neural data anlaysis, as well as development of a versatile data pipeline with user-friendly front-end and documentation. Ideal candidates should have experience and interests in one or more of the following areas: signal processing; machine learning; system identification; computational neuroscience; Python development; prior experience with MEG and/or EEG is not required but would be a plus.
+On computational front, we are looking for applicants interested in theory and algorithm development for neural data analysis, as well as development of a versatile data pipeline with user-friendly front-end and documentation. Ideal candidates should have experience and interests in one or more of the following areas: signal processing; machine learning; system identification; computational neuroscience; Python development; prior experience with MEG and/or EEG is not required but would be a plus.
 
 On experimental front, we are looking for applicants interested in EEG/ MRI studies, who are willing to develop and/or run congnitive experiment protocol for healthy volunteers. Ideal candidates should have experience or interests in one or more of the following areas: computational psychology, cognitive neuroscience; prior experience with Python or MATLAB is not required but would be a plus. 
 
