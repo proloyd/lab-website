@@ -3,6 +3,7 @@ name: Deeptee
 image: images/deeptee.png
 description: Research Intern
 role: intern
+group: alum
 links:
   email: dpt654@psychology.du.ac.in
   twitter: 
