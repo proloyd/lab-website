@@ -1,0 +1,188 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi:10.1101/2023.05.19.541500
+  title: Changes in Cortical Directional Connectivity during Difficult Listening in
+    Younger and Older Adults
+  authors:
+  - Behrad Soleimani
+  - I.M. Dushyanthi Karunathilake
+  - Proloy Das
+  - Stefanie E. Kuchinsky
+  - Behtash Babadi
+  - Jonathan Z. Simon
+  publisher: openRxiv
+  date: '2023-05-22'
+  link: https://doi.org/g8njf4
+  orcid: 0000-0002-8807-042X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TIT.2023.3296336
+  title: Non-Asymptotic Guarantees for Reliable Identification of Granger Causality
+    via the LASSO
+  authors:
+  - Proloy Das
+  - Behtash Babadi
+  publisher: IEEE Transactions on Information Theory
+  date: '2023-11-01'
+  link: https://doi.org/g8njf5
+  orcid: 0000-0002-8807-042X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2022.119496
+  title: 'NLGC: Network localized Granger causality with application to MEG directional
+    functional connectivity analysis'
+  authors:
+  - Behrad Soleimani
+  - Proloy Das
+  - I.M. Dushyanthi Karunathilake
+  - Stefanie E. Kuchinsky
+  - Jonathan Z. Simon
+  - Behtash Babadi
+  publisher: NeuroImage
+  date: '2022-10-01'
+  link: https://doi.org/g8njf7
+  orcid: 0000-0002-8807-042X
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1053811922006127-gr5_lrg.jpg
+- id: doi:10.1101/2021.08.01.454687
+  title: 'Eelbrain: A Python toolkit for time-continuous analysis with temporal response
+    functions'
+  authors:
+  - Christian Brodbeck
+  - Proloy Das
+  - Marlies Gillis
+  - Joshua P. Kulasingham
+  - Shohini Bhattasali
+  - Phoebe Gaston
+  - Philip Resnik
+  - Jonathan Z. Simon
+  publisher: openRxiv
+  date: '2021-08-03'
+  link: https://doi.org/gmfxfw
+  orcid: 0000-0002-8807-042X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.sigpro.2019.107429
+  title: Multitaper spectral analysis of neuronal spiking activity driven by latent
+    stationary processes
+  authors:
+  - Proloy Das
+  - Behtash Babadi
+  publisher: Signal Processing
+  date: '2020-05-01'
+  link: https://doi.org/g8njf8
+  orcid: 0000-0002-8807-042X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACSSC.2018.8645204
+  title: Cortical Localization of the Auditory Temporal Response Function from MEG
+    via Non-convex Optimization
+  authors:
+  - Proloy Das
+  - Christian Brodbeck
+  - Jonathan Z. Simon
+  - Behtash Babadi
+  publisher: 2018 52nd Asilomar Conference on Signals, Systems, and Computers
+  date: '2018-10-01'
+  link: https://doi.org/g8njf9
+  orcid: 0000-0002-8807-042X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TSP.2017.2787146
+  title: Dynamic Bayesian Multitaper Spectral Analysis
+  authors:
+  - Proloy Das
+  - Behtash Babadi
+  publisher: IEEE Transactions on Signal Processing
+  date: '2018-03-15'
+  link: https://doi.org/gkjxp9
+  orcid: 0000-0002-8807-042X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/SPMB.2017.8257055
+  title: A Bayesian multitaper method for nonstationary data with application to EEG
+    analysis
+  authors:
+  - P. Das
+  - B. Babadi
+  publisher: 2017 IEEE Signal Processing in Medicine and Biology Symposium (SPMB)
+  date: '2017-12-01'
+  link: https://doi.org/g8njgb
+  orcid: 0000-0002-8807-042X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00034-015-0241-z
+  title: "Introducing Fractional-Order Dynamics to Sigma\u2013Delta Modulators"
+  authors:
+  - Proloy Das
+  - Siddhartha Sen
+  publisher: Circuits, Systems, and Signal Processing
+  date: '2016-02-02'
+  link: https://doi.org/g8njgc
+  orcid: 0000-0002-8807-042X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.97107.3
+  title: A dynamic generative model can extract interpretable oscillatory components
+    from multichannel neurophysiological recordings
+  authors:
+  - Proloy Das
+  - Mingjian He
+  - Patrick L Purdon
+  publisher: eLife
+  date: '2024-08-15'
+  link: https://doi.org/g8njgn
+  type: paper
+  image: https://iiif.elifesciences.org/lax:97107%2Felife-97107-fig2-v1.tif/full/617,/0/default.webp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pcbi.1011395
+  title: Switching state-space modeling of neural signal dynamics
+  authors:
+  - Mingjian He
+  - Proloy Das
+  - Gladia Hotan
+  - Patrick L. Purdon
+  publisher: PLOS Computational Biology
+  date: '2023-08-28'
+  link: https://doi.org/g8njgp
+  type: paper
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=large&id=10.1371/journal.pcbi.1011395.g007
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.7554/eLife.85012
+  title: Eelbrain, a Python toolkit for time-continuous analysis with temporal response
+    functions
+  authors:
+  - Christian Brodbeck
+  - Proloy Das
+  - Marlies Gillis
+  - Joshua P Kulasingham
+  - Shohini Bhattasali
+  - Phoebe Gaston
+  - Philip Resnik
+  - Jonathan Z Simon
+  publisher: eLife
+  date: '2023-11-29'
+  link: https://doi.org/gs7hk9
+  type: paper
+  image: https://iiif.elifesciences.org/lax:85012%2Felife-85012-fig2-v2.tif/full/1500,/0/default.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neuroimage.2020.116528
+  title: 'Neuro-current response functions: A unified approach to MEG source analysis
+    under the continuous stimuli paradigm'
+  authors:
+  - Proloy Das
+  - Christian Brodbeck
+  - Jonathan Z. Simon
+  - Behtash Babadi
+  publisher: NeuroImage
+  date: '2020-05-01'
+  link: https://doi.org/ghqxqt
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S105381192030015X-gr5.jpg
+  plugin: sources.py
+  file: sources.yaml
