@@ -58,7 +58,7 @@ We are looking for post-docs, graduate students, and interns to work on multiple
 
 {% capture text %}
 
-Based at National Brain Research Centre, Manesar, Gurgaon, Haryana our team hosts members from diverse background.
+Based at TCG CREST, Kolkata, West Bengal our team hosts members from diverse background.
 
 {%
   include button.html
