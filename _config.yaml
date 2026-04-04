@@ -1,6 +1,6 @@
 # site properties and page defaults
 title: Das Lab
-subtitle: National Brain Reserach Centre
+subtitle: IAI, TCG CREST
 description: 
 header: images/background.jpg
 footer: images/background.jpg
@@ -8,7 +8,7 @@ proofer: true
 
 # site social media and other links
 links:
-  email: proloy@nbrc.ac.in
+  email: proloy.das@tcgcrest.org
   orcid: 0000-0002-8807-042X
   google-scholar: 1s8bdnEAAAAJ
   github: proloyd

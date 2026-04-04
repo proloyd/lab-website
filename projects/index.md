@@ -7,11 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-We are looking for research assistants to work on multiple cognitive and computational projects. For more details, check out the featured projects with open positions. Although we are at a biology institute, our projects require significant amount of maths and programming background. So, please make sure you have suitable background before shooting your email.
+We are looking for PHD students to work on multiple computational neuroscience and neural signal processing projects. For more details, check out the featured projects with open positions.
 
-For details of M.Sc. and PHD admissions at NBRC click here: [National Brain Research Centre Admissions](https://www.nbrc.ac.in/html/nbrc/index.html).
+For details of PHD admissions at IAI, TCG CREST click here: [TCG CREST invites applications for the PhD Programme 2026](https://www.tcgcrest.org/phd-admission-2026/).
 
-Recent advertisement for Research Assistant-I (project) can be found [here](https://www.nbrc.ac.in/newweb/wp-content/uploads/2025/10/Dr-Proloy-Advertisment-Research-Assistant-I.pdf). 
+Rolling advertisement for Post-docs can be found [here](https://www.tcgcrest.org/careers-at-iai/). 
+
+**We recently moved from National Brain Research Centre, Manesar to TCG Centres for Research and Education in Science and Technology, Kolkata.**
 
 {% include tags.html tags="publication, open-position, software, eeg" %}
 

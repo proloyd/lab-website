@@ -2,7 +2,7 @@
 name: Proloy Das
 image: images/proloydas.jpg
 role: pi
-affiliation: National Brain Reserach Centre
+affiliation: IAT, TCG Crest
 aliases:
   - P Das
   - P. Das
